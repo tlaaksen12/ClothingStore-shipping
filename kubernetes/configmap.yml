@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: Config_ship
+  name: Config_shipping
 data:
   text1: Config_ship_Text1
   text2: Config_ship_Text2
